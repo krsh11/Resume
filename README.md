@@ -1,1 +1,1 @@
-# Resume website using HTML5 amd CSS. 
+# Resume website using HTML5 and CSS. 
